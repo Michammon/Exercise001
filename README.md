@@ -1,3 +1,8 @@
+# Exercise01
+
+Vue.js Pagination and Post Display.
+This project demonstrates a simple Vue.js application for fetching and displaying paginated posts from a public API.
+
 ## Project setup
 ```
 npm install
